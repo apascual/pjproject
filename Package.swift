@@ -17,7 +17,7 @@ let package = Package(
   targets: [
     .binaryTarget(
       name: "libpjproject",
-      url: "https://github.com/apascual/pjproject/releases/download/latest/libpjproject.xcframework.zip",
+      url: "https://github.com/apascual/pjproject/releases/download/v1.0.0/libpjproject.xcframework.zip",
       checksum: "24d9c33dc4a71af7de77d421261fd4afb793e4dd6051775d4231d7fc567b1d49"
     ),
   ]
